@@ -7,12 +7,12 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
 - **Ponteiros**
   - [#1 - Variáveis e a Memória RAM](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/variaveis-e-memoria)
   - [#2 - Introdução a Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#3 Aprofundando em Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#4 Programando Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#5 Tamanhos dos tipos de dados](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#6 Ponteiro de Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#7 Mão na Massa: Ponteiro de Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
-  - [#8 Ponteiros: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
+  - [#3 - Aprofundando em Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
+  - [#4 - Programando Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
+  - [#5 - Tamanhos dos tipos de dados](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
+  - [#6 - Ponteiro de Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
+  - [#7 - Mão na Massa: Ponteiro de Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
+  - [#8 - Ponteiros: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
 
 
 <br/>
