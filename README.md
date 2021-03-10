@@ -17,7 +17,7 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
 
 <br/>
 
-**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](http://twitter.com/hisamuka)
+**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
 
 
 <br/>
