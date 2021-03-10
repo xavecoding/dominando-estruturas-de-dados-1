@@ -1,7 +1,6 @@
 ## Dominando Estruturas de Dados 1
 
-Este material apresenta os códigos e slides do curso [Dominando Estruturas de Dados 1](XXXXx), disponível no YouTube.
-**Playlist:** https://www.youtube.com/playlist?list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5
+Este material apresenta os códigos e slides do curso [Dominando Estruturas de Dados 1, disponível no YouTube](https://www.youtube.com/playlist?list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5).
 <br/>
 
 #### Materiais de cada vídeo (slides e códigos)
