@@ -1,7 +1,8 @@
 ## Dominando Estruturas de Dados 1
 
 Este material apresenta os códigos e slides do curso [Dominando Estruturas de Dados 1, disponível no YouTube](https://www.youtube.com/playlist?list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5).
-<br/>
+
+**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
 
 ### Materiais de cada vídeo (slides e códigos)
 - **Ponteiros**
@@ -42,11 +43,6 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#30 - Vetores de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
   - [#31 - Structs: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
 
-
-
-<br/>
-
-**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
 
 
 <br/>
