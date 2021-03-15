@@ -26,6 +26,21 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#17 - Vetores: Exemplos Práticos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
   - [#18 - Função para Desalocar Vetores Dinâmicos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
   - [#19 - Vetores - Mais Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/vetores-e-tipos-de-alocacao)
+- **Matrizes**
+  - [#20 - Matrizes Estáticas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+  - [#21 - Matrizes Dinâmicas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+  - [#22 - Matrizes 3D](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+  - [#23 - Desalocando Matrizes Dinâmicas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+  - [#24 - Matrizes: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+- **Layout de Dados**
+  - [#25 - Row e Column Major Order](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+  - [#26 - Row e Column Major Order na Prática](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/matrizes)
+- **Structs**
+  - [#27 - Structs: Definição e Exemplos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
+  - [#28 - Alocação Estática e Dinâmica de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
+  - [#29 - Codificando um CRUD de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
+  - [#30 - Vetores de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
+  - [#31 - Structs: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
 
 
 
