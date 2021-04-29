@@ -59,6 +59,12 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#44 Compilando projetos em C com Makefile (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-04)
   - [#45 Compilando projetos em C com Makefile (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-05)
   - [#46 Compilando projetos em C com Makefile (Parte 6)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-06)
+- **Listas Encadeadas Simples (EM BREVE)**
+- **Listas Duplamente Encadeadas (EM BREVE)**
+- **Listas Circulares Duplamente Encadeadas (EM BREVE)**
+- **Pilhas Estáticas e Dinâmicas (EM BREVE)**
+- **Filas Estáticas e Dinâmicas (EM BREVE)**
+- **Noções de Análise de Algoritmos (EM BREVE)**
 
 
 
