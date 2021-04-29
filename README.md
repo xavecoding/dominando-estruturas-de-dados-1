@@ -56,6 +56,9 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#41 Compilando projetos em C com Makefile (Parte 1)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-01)
   - [#42 Compilando projetos em C com Makefile (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-02)
   - [#43 Compilando projetos em C com Makefile (Parte 3)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-03)
+  - [#44 Compilando projetos em C com Makefile (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-04)
+  - [#45 Compilando projetos em C com Makefile (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-05)
+  - [#46 Compilando projetos em C com Makefile (Parte 6)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-06)
 
 
 
