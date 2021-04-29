@@ -42,6 +42,14 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#29 - Codificando um CRUD de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
   - [#30 - Vetores de Structs](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
   - [#31 - Structs: Exercícios](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/structs)
+- **Tipos Abstratos de Dados**
+  - [#32 - Tipo Abstrato de Dados (Definição)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/tads/Tipos%20Abstratos%20de%20Dados%20-%20xavecoding.pdf)
+  - [#33 Implementando um TAD (Parte 1)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/partes-01-04)
+  - [#34 Implementando um TAD (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/partes-01-04)
+  - [#35 Implementando um TAD (Parte 3)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/partes-01-04)
+  - [#36 Implementando um TAD (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/partes-01-04)
+  - [#37 Encapsulamento em C](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/parte-05)
+  - [#38 Evitando Múltiplos Includes (Include Guards)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/include-guards)
 
 
 
