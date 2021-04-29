@@ -50,6 +50,12 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#36 - Implementando um TAD (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/partes-01-04)
   - [#37 - Encapsulamento em C](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/parte-05)
   - [#38 - Evitando Múltiplos Includes (Include Guards)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/tads/codes/include-guards)
+- **Compilação de Códigos em C**
+  - [#39 - Compilando códigos C](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/video-01)
+  - [#40 - Organização de Projetos em C](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/video-02)
+  - [#41 Compilando projetos em C com Makefile (Parte 1)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-01)
+  - [#42 Compilando projetos em C com Makefile (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-02)
+  - [#43 Compilando projetos em C com Makefile (Parte 3)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-03)
 
 
 
