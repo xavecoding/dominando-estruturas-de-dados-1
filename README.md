@@ -59,7 +59,16 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#44 Compilando projetos em C com Makefile (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-04)
   - [#45 Compilando projetos em C com Makefile (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-05)
   - [#46 Compilando projetos em C com Makefile (Parte 6)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/compilando-codigos-c/makefile-video-06)
-- **Listas Encadeadas Simples (EM BREVE)**
+- **Listas Encadeadas Simples**
+  - [#47 Listas Encadeadas Simples - Motivação](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/listas-encadeadas-simples)
+  - [#48 Listas Encadeadas - Definição dos Tipos](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-01)
+  - [#49 Listas Encadeadas - Construtores](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-02)
+  - [#50 Listas Encadeadas - Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-03)
+  - [#51 Listas Encadeadas - Impressão](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-04)
+  - [#52 Listas Encadeadas - Inserção no Fim](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-05)
+  - [#52 Listas Encadeadas - Inserção Eficiente no Fim](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-06)
+  - [#57 Listas Encadeadas - Nova Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-07)
+
 - **Listas Duplamente Encadeadas (EM BREVE)**
 - **Listas Circulares Duplamente Encadeadas (EM BREVE)**
 - **Pilhas Estáticas e Dinâmicas (EM BREVE)**
