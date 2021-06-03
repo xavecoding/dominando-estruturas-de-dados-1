@@ -66,8 +66,20 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#50 Listas Encadeadas - Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-03)
   - [#51 Listas Encadeadas - Impressão](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-04)
   - [#52 Listas Encadeadas - Inserção no Fim](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-05)
-  - [#52 Listas Encadeadas - Inserção Eficiente no Fim](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-06)
-  - [#57 Listas Encadeadas - Nova Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-07)
+  - [#53 Listas Encadeadas - Inserção Eficiente no Fim](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-06)
+  - [#54 Listas Encadeadas - Nova Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-07)
+  - [#55 Listas Encadeadas - Análise Assintótica](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples)
+  - [#56 Listas Encadeadas - Análise Assintótica na Prática](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-08)
+  - [#57 - Listas Encadeadas - Remoção (Parte 1)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-09)
+  - [#58 - Listas Encadeadas - Remoção (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-10)
+  - [#59 - Listas Encadeadas - Remoção (Parte 3)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples)
+  - [#60 - Listas Encadeadas - Remoção (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-11)
+  - [#61 - Listas Encadeadas - Remoção (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-12)
+  - [#62 - Listas Encadeadas - Remoção (Parte 6)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-13)
+  - [#63 - Listas Encadeadas - Destrutor](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-14)
+  - [#64 - Listas Encadeadas - Exercícios 1](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-15)
+  - [#65 - Listas Encadeadas - Exercícios 2](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-16)
+
 
 - **Listas Duplamente Encadeadas (EM BREVE)**
 - **Listas Circulares Duplamente Encadeadas (EM BREVE)**
