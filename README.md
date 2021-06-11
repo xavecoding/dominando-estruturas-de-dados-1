@@ -79,7 +79,7 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#63 - Listas Encadeadas - Destrutor](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-14)
   - [#64 - Listas Encadeadas - Exercícios 1](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-15)
   - [#65 - Listas Encadeadas - Exercícios 2](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-16)
-- **Listas Duplamente Encadeadas (EM BREVE)**
+- **Listas Duplamente Encadeadas**
   - [#66 Listas Duplamente Encadeadas - Definição](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-01/libed)
   - [#67 Listas Duplamente Encadeadas - Construtores](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-02/libed)
   - [#68 Listas Duplamente Encadeadas - Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-03/libed)
