@@ -157,5 +157,29 @@ void List_remove(List *L, int val) {
             free(p);
             L->size--;
         }
+        // caso 2: o elemento está no meio da lista
+        // caso 3: o elemento está no final da lista
+        else {
+            Node *p = L->begin->next;
+
+            while (p != NULL) {
+                if (p->val == val) {
+                    // caso 3
+                    if (L->end == p) {
+
+                    }
+                    // caso 2
+                    else {
+                        p->prev->next = p->next;
+                        p->next->prev = p->prev;
+                        free(p);
+                        L->size--;
+                    }
+                }
+                else {
+                    p = p->next;
+                }
+            }
+        }
     }
 }
