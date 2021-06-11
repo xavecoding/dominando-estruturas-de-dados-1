@@ -79,9 +79,21 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#63 - Listas Encadeadas - Destrutor](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-14)
   - [#64 - Listas Encadeadas - Exercícios 1](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-15)
   - [#65 - Listas Encadeadas - Exercícios 2](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-encadeadas-simples/codes/parte-16)
-
-
 - **Listas Duplamente Encadeadas (EM BREVE)**
+  - [#66 Listas Duplamente Encadeadas - Definição](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-01/libed)
+  - [#67 Listas Duplamente Encadeadas - Construtores](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-02/libed)
+  - [#68 Listas Duplamente Encadeadas - Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-03/libed)
+  - [#69 Listas Duplamente Encadeadas - Impressão](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-04/libed)
+  - [#70 Listas Duplamente Encadeadas - Inserção no Final](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-05/libed)
+  - [#71 Listas Duplamente Encadeadas - Remoção (Parte 1)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-06/libed)
+  - [#72 Listas Duplamente Encadeadas - Remoção (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-07/libed)
+  - [#73 Listas Duplamente Encadeadas - Remoção (Parte 3)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-08/libed)
+  - [#74 Listas Duplamente Encadeadas - Remoção (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-09/libed)
+  - [#75 Listas Duplamente Encadeadas - Remoção (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-10/libed)
+
+
+
+
 - **Listas Circulares Duplamente Encadeadas (EM BREVE)**
 - **Pilhas Estáticas e Dinâmicas (EM BREVE)**
 - **Filas Estáticas e Dinâmicas (EM BREVE)**
