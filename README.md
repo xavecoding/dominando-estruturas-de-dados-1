@@ -5,6 +5,10 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
 
 ### Materiais de cada vídeo (slides e códigos)
+- **Desafios**
+  - [Desafio: Lista auto-organizável](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/desafios/lista-auto-organizavel-por-contagem)
+<br/>
+
 - **Ponteiros**
   - [#1 - Variáveis e a Memória RAM](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/variaveis-e-memoria)
   - [#2 - Introdução a Ponteiros](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/ponteiros)
