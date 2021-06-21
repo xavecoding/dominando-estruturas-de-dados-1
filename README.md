@@ -95,13 +95,21 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#74 Listas Duplamente Encadeadas - Remoção (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-09/libed)
   - [#75 Listas Duplamente Encadeadas - Remoção (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-duplamente-encadeadas/codes/parte-10/libed)
 
+- **Listas Circulares Duplamente Encadeadas**
+  - [#76 Listas Circulares - Definição](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-01/libed)
+  - [#77 Listas Circulares - Construtores](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-02/libed)
+  - [#78 Listas Circulares - Inserção na Cabeça](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-03/libed)
+  - [#79 Listas Circulares - Impressão](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-04/libed)
+  - [#80 Listas Circulares - Inserção no Final](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-05/libed)
+  - [#81 Listas Circulares - Remoção (Parte 1)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-06/libed)
+  - [#82 Listas Circulares - Remoção (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-07/libed)
+  - [#83 Listas Circulares - Remoção (Parte 3)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-08/libed)
+  - [#84 Listas Circulares - Remoção (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-09/libed)
+  - [#85 Listas Circulares - Remoção (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-10/libed)
 
-
-
-- **Listas Circulares Duplamente Encadeadas (EM BREVE)**
 - **Pilhas Estáticas e Dinâmicas (EM BREVE)**
 - **Filas Estáticas e Dinâmicas (EM BREVE)**
-- **Noções de Análise de Algoritmos (EM BREVE)**
+
 
 
 
