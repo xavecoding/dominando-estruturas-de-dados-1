@@ -107,7 +107,18 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#84 Listas Circulares - Remoção (Parte 4)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-09/libed)
   - [#85 Listas Circulares - Remoção (Parte 5)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/listas-circulares/codes/parte-10/libed)
 
-- **Pilhas Estáticas e Dinâmicas (EM BREVE)**
+- **Pilhas Estáticas e Dinâmicas**
+  - [#86 Pilhas - Definição](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/pilhas/Pilhas%20-%20xavecoding.pdf)
+  - [#87 Tipos de Pilhas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/pilhas/Pilhas%20-%20xavecoding.pdf)
+  - [#88 Pilhas Estáticas - Operações](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/pilhas/Pilhas%20-%20xavecoding.pdf)
+  - [#89 Pilhas Estáticas - Codificação (Parte 1)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/pilhas/estaticas/parte-01/libed)
+  - [#90 Pilhas Estáticas - Codificação (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/pilhas/estaticas/parte-02/libed)
+  - [#90 Pilhas Estáticas - Codificação (Parte 2)](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/pilhas/estaticas/parte-02/libed)
+  - [#91 Pilhas Dinâmicas - Definição](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/pilhas/dinamicas/parte-01/libed)
+  - [#92 Pilhas Dinâmicas - push e peek](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/pilhas/dinamicas/parte-02/libed)
+  - [#93 Pilhas Dinâmicas - pop](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/pilhas/dinamicas/parte-03/libed)
+
+
 - **Filas Estáticas e Dinâmicas (EM BREVE)**
 
 
