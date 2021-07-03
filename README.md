@@ -119,7 +119,15 @@ Este material apresenta os códigos e slides do curso [Dominando Estruturas de D
   - [#93 Pilhas Dinâmicas - pop](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/pilhas/dinamicas/parte-03/libed)
 
 
-- **Filas Estáticas e Dinâmicas (EM BREVE)**
+- **Filas Estáticas e Dinâmicas**
+  - [#94 Filas - Definição](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/filas/Filas%20-%20xavecoding.pdf)
+  - [#95 Filas Estáticas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/filas/Filas%20-%20xavecoding.pdf)
+  - [#96 Filas Circulares Estáticas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/blob/main/filas/Filas%20-%20xavecoding.pdf)
+  - [#97 Filas Estáticas - Codificação](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/filas/codes/estaticas/parte-01/libed)
+  - [#98 Filas Estáticas - enqueue e dequeue](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/filas/codes/estaticas/parte-02/libed)
+  - [#99 Filas Dinâmicas - Codificação](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/filas/codes/dinamicas/parte-01/libed)
+  - [#100 Filas Dinâmicas - enqueue e dequeue](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/filas/codes/dinamicas/parte-02/libed)
+  - [#101 Testando as Filas Dinâmicas](https://github.com/xavecoding/dominando-estruturas-de-dados-1/tree/main/filas/codes/dinamicas/parte-03/libed)
 
 
 
