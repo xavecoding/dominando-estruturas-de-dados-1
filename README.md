@@ -1,8 +1,8 @@
 ## Dominando Estruturas de Dados 1
 
-Este material apresenta os códigos e slides do curso [Dominando Estruturas de Dados 1, disponível no YouTube](https://www.youtube.com/playlist?list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5).
+Este material apresenta os códigos e slides do curso [Dominando Estruturas de Dados 1](https://www.youtube.com/playlist?list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5), disponível no [YouTube](https://www.youtube.com/playlist?list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5).
 
-**Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
+**Professor:** [Samuel Martins (Samuka)](https://samucoding.com) - [@iamsamucoding](https://github.com/iamsamucoding)
 
 ### Materiais de cada vídeo (slides e códigos)
 - **Desafios**
